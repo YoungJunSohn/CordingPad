@@ -1,6 +1,5 @@
 package main.algorithm.quickSort;
 
-import main.accessModifier.testPack1.A;
 
 import java.util.Arrays;
 
