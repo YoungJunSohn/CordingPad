@@ -1,0 +1,3 @@
+[submodule "basic-concept"]
+	path = basic-concept
+	url = https://github.com/YoungJunSohn/basic-concepts.git
