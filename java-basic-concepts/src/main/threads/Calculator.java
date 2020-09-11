@@ -6,7 +6,7 @@ public class Calculator {//스레드들의 공유객체
         return memory;
     }
 
-    public void  setMemory(int memory){
+    public synchronized void  setMemory(int memory){
         this.memory = memory; //매개변수를 필드에 저장
 
         try{

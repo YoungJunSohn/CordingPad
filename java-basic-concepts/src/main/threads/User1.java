@@ -9,6 +9,6 @@ public class User1 extends Thread {
     }
 
     public void run(){
-        calculator.setMemory(100);
+        calculator.setMemory(111);
     }
 }
